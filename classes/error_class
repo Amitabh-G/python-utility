@@ -1,0 +1,2 @@
+class error(Error):
+  """Thrown if serialization to JSON fails."""
